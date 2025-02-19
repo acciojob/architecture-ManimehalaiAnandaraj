@@ -1,17 +1,17 @@
 /*  your css code here. If applicable */
-*{
+.imageContainer{
 	width:1100;
  background-color:lightgray;
 }
-.imageContainer
+#im
 {
-	height:150px;
+	height:200px;
 	width:300px;
 }
 #c1{
 	width:200px;
 }
-.c2{
+#c2{
 	width:600px;
 	font-size:10px;
 	text-align:center;
